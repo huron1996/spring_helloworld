@@ -5,4 +5,6 @@ package com.huron.demo.helloworld;
 public class Person {
     int age;
     String name;
+    String username;
+
 }
